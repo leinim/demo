@@ -1,0 +1,45 @@
+.color1 {
+  color: #61e3ff;
+}
+.color2 {
+  color: #ace3ff;
+}
+.color3 {
+  color: #a3003f;
+}
+.color4 {
+  color: #d2503e;
+}
+.color5 {
+  color: #edaf6c;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Roboto&display=swap"); 
+/*font-family: 'Borel', cursive;
+font-family: 'Roboto', sans-serif;*/
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Playfair+Display:ital@0;1&family=Roboto&display=swap");
+/*font-family: 'Borel', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;*/
+
+body {
+  background-color: #ace3ff;
+}
+
+#nav {
+  padding-bottom: 0px;
+}
+
+#nav div {
+  background-color: #61e3ff;
+}
+
+#nav a {
+  color: rgba(32, 34, 32, 0.822);
+  text-decoration-line: overline;
+  font-family: 'Playfair Display', serif;
+}
+
+#logo {
+  width: 40px;
+}
