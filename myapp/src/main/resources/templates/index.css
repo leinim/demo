@@ -30,5 +30,8 @@ body {
 }
 
 #logo {
-  width: 40px;
+  width: 35px;
+  border-radius: 50%;
+  object-fit: contain;
+  overflow: hidden;
 }
